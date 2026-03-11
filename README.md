@@ -10,7 +10,6 @@ I'm a **Backend Developer** focused on building scalable, reliable systems and s
 - 🌱 Currently diving deeper into distributed systems and backend engineering
 - 💡 I enjoy turning complex problems into clean, efficient solutions
 - 🚀 Always building something new
-- 📫 Reach me at: [obengkennethmireku@gmail.com](mailto:obengkennethmireku@gmail.com)
 
 ---
 
