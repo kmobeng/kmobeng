@@ -59,14 +59,6 @@ I'm a **Backend Developer** focused on building scalable, reliable systems and s
 
 ---
 
-## 📈 What I'm Working On
-
-- Building scalable REST APIs with authentication, caching, and clean architecture
-- Exploring advanced backend concepts — queuing, event-driven design, and system design
-- Deepening knowledge of distributed systems and database internals
-
----
-
 ## 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenneth-obeng-mireku)
