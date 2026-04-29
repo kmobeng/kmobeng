@@ -7,7 +7,7 @@ I'm a **Backend Developer** focused on building scalable, reliable systems and s
 ## About Me
 
 - 🔧 I specialize in backend development — RESTful APIs, databases, authentication, and server-side architecture
-- 🌱 Currently diving deeper into distributed systems and backend engineering
+- 🌱 Currently learning Nest JS
 - 💡 I enjoy turning complex problems into clean, efficient solutions
 - 🚀 Always building something new
 
