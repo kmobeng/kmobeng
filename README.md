@@ -10,7 +10,6 @@ I'm a **Backend Developer** focused on building scalable, reliable systems and s
 - 🌱 Currently learning Nest JS
 - 💡 I enjoy turning complex problems into clean, efficient solutions
 - 🚀 Currently building TrackWise. A full-stack expense management platform with a robust AI layer that intelligently categorizes transactions, surfaces real-time spending insights, and delivers automated monthly financial reports.
-- 
 ---
 
 ## 🛠️ Tech Stack
