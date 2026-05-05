@@ -14,7 +14,7 @@ I'm a **Backend Developer** focused on building scalable, reliable systems and s
 
 ## 🛠️ Languages,Frameworks and Tools
 
-![Languages,Frameworks and Tools](https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,mongodb,prisma,git,docker,redis,ts,js,java,cpp,py,linux&theme=dark)
+![Languages,Frameworks and Tools](https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,mongodb,prisma,git,docker,redis,ts,js,java,cpp,py,linux&theme=dark&perline=10)
 
 
 ## 🤝 Connect With Me
