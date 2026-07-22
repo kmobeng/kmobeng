@@ -7,13 +7,13 @@ I'm a **Backend Developer** focused on building scalable, reliable systems and s
 ## About Me
 
 - 🔧 I specialize in backend development — RESTful APIs, databases, authentication, and server-side architecture
-- 🌱 Currently learning Nest JS
+- 🌱 Currently learning Nest JS and React
 - 💡 I enjoy turning complex problems into clean, efficient solutions
 ---
 
 ## 🛠️ Languages,Frameworks and Tools
 
-![Languages,Frameworks and Tools](https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,mongodb,prisma,git,docker,redis,ts,js,java,cpp,py,linux&theme=dark&perline=10)
+![Languages,Frameworks and Tools](https://skillicons.dev/icons?i=nodejs,express,nestjs,git,docker,redis,react,linux&theme=dark&perline=10)
 
 
 ## 🤝 Connect With Me
