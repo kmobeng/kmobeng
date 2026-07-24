@@ -15,11 +15,20 @@ I'm a **Backend Developer** focused on building scalable, reliable systems and s
 
 ![Languages,Frameworks and Tools](https://skillicons.dev/icons?i=nodejs,express,nestjs,git,docker,redis,react,linux&theme=dark&perline=10)
 
+---
 
 ## 🤝 Connect With Me
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/kenneth-obeng-mireku)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:obengkennethmireku@gmail.com)
+
+---
+
+### 📊 Stats
+<div align="center">
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kmobeng&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" /></a>
+</div>
 
 ---
 
